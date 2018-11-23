@@ -3,7 +3,7 @@ __Food__
 - Pad Thai Cafe (thai, Symphony Hall area, seems fast-foody but is super good)
 - The Haven  (Scottish, good burgers and beer, Jamaica Plain)
 - Taiwan Cafe (Taiwanese, Chinatown)
-- Grasshopper (vegetarian Chinese, Allston)
+- Grasshopper (vegan Chinese, Allston)
 - Yoma (Burmese, Allston)
 - Wafu-ya (sushi, Porter)
 - Seoul Soulongtang (Korean, Allston)
