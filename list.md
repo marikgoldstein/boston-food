@@ -30,19 +30,11 @@ __Ice Cream:__
 
 -Fomu (vegan, Allston)
 
-
-
-
-
-
-
-
-
-Places I have not tried:
+__Places I have not tried:__
 
 Cafe Sushi (sushi, between Central and Harvard) 
 
-Asmara (Eritrean, similar to Ethiopian food, Central)
+Asmara (Eritrean, Central)
 
 Sarma (Turkish)
 
