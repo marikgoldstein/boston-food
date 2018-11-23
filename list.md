@@ -26,11 +26,11 @@ __Coffee/Tea__
 - La Colombe (across from South Station Bus Terminal entrance)
 - Tealuxe (harvard)
 
-__Ice Cream:__
+__Ice Cream__
 
 -Fomu (vegan, Allston)
 
-__Places I have not tried:__
+__Places I have not tried__
 
 Cafe Sushi (sushi, between Central and Harvard) 
 
