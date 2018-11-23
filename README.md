@@ -17,6 +17,7 @@ __Food__
 - Moby Dick (Persian, Symphony Hall area)
 - Flour Bakery (sandwiches, several locations)
 - Barcelona (Spanish, Brookline)
+- Rangzen (Tibetan, Central Square)
 
 __Coffee/Tea__
 
