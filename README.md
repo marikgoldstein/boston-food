@@ -28,18 +28,13 @@ __Coffee/Tea__
 
 __Ice Cream__
 
--Fomu (vegan, Allston)
+- Fomu (vegan, Allston)
 
 __Places I have not tried__
 
-Cafe Sushi (sushi, between Central and Harvard) 
-
-Asmara (Eritrean, Central)
-
-Sarma (Turkish)
-
-Penang (Malaysian, Chinatown)
-
-Happy Lamb (Mongolian, Central)
-
-Hulun Beir (Mongolian, several locations including MGH and Porter)
+- Cafe Sushi (sushi, between Central and Harvard) 
+- Asmara (Eritrean, Central)
+- Sarma (Turkish)
+- Penang (Malaysian, Chinatown)
+- Happy Lamb (Mongolian, Central)
+- Hulun Beir (Mongolian, several locations including MGH and Porter)
