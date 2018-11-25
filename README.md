@@ -34,7 +34,7 @@
 - __Many locations__
   * Flour Bakery (sandwiches)
 
-__Coffee/Tea__
+# __Coffee/Tea__
 
 - Render Cafe (South End)
 - Andala (Arabic and Turkish coffee, Central)
@@ -42,11 +42,11 @@ __Coffee/Tea__
 - La Colombe (across from South Station Bus Terminal entrance)
 - Tealuxe (harvard)
 
-__Ice Cream__
+# __Ice Cream__
 
 - Fomu (vegan, Allston)
 
-__Places I have not tried__
+# __Places I have not tried__
 
 - Cafe Sushi (sushi, between Central and Harvard) 
 - Asmara (Eritrean, Central)
