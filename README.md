@@ -1,22 +1,38 @@
-__Food__
+# __Food__
 
-- Pad Thai Cafe (thai, Symphony Hall area, seems fast-foody but is super good)
-- The Haven  (Scottish, good burgers and beer, Jamaica Plain)
-- Taiwan Cafe (Taiwanese, Chinatown)
-- Grasshopper (vegetarian Chinese, Allston)
-- Yoma (Burmese, Allston)
-- Wafu-ya (sushi, Porter)
-- Seoul Soulongtang (Korean, Allston)
-- Roksanna’s (Persian, Watertown, no sit-down)
-- Andala (North African, Central)
-- Helmand (Afghan, Kendall)
-- MaLa (spicy dry pot Chinese, Allston)
-- Jo Jo Taipei (Taiwanese, Allston)
-- Silk Road (Uyghur, East Cambridge)
-- Pho Pasteur  (Vietnamese, Chinatown)
-- Moby Dick (Persian, Symphony Hall area)
-- Flour Bakery (sandwiches, several locations)
-- Barcelona (Spanish, Brookline)
+- __Allston__
+  * Grasshopper (vegan Chinese)
+  * Jo Jo Taipei (Taiwanese)
+  * MaLa (spicy dry pot Chinese)
+  * Seoul Soulongtang (Korean)
+  * Yoma (Burmese)
+
+- __Brookline__
+  * Barcelona (Spanish)
+
+- __Cambridge__
+  * Andala (North African, Central)
+  * Silk Road (Uyghur, East Cambridge)
+  * Wafu-ya (sushi, Porter)
+  * Helmand (Afghan, Kendall)
+
+- __Chinatown__
+  * Taiwan Cafe (Taiwanese)
+  * Pho Pasteur  (Vietnamese)
+
+- __Symphony__
+  * Pad Thai Cafe (Thai, seems fast-foody but is super good)
+  * Moby Dick (Persian)
+
+- __Jamaica Plain__
+  * The Haven  (Scottish, good burgers and beer)
+
+- __Watertown__
+  * Roksanna’s (Persian, no sit-down)
+
+- __Many locations__
+  * Flour Bakery (sandwiches)
+
 
 __Coffee/Tea__
 
@@ -28,18 +44,13 @@ __Coffee/Tea__
 
 __Ice Cream__
 
--Fomu (vegan, Allston)
+- Fomu (vegan, Allston)
 
 __Places I have not tried__
 
-Cafe Sushi (sushi, between Central and Harvard) 
-
-Asmara (Eritrean, Central)
-
-Sarma (Turkish)
-
-Penang (Malaysian, Chinatown)
-
-Happy Lamb (Mongolian, Central)
-
-Hulun Beir (Mongolian, several locations including MGH and Porter)
+- Cafe Sushi (sushi, between Central and Harvard) 
+- Asmara (Eritrean, Central)
+- Sarma (Turkish)
+- Penang (Malaysian, Chinatown)
+- Happy Lamb (Mongolian, Central)
+- Hulun Beir (Mongolian, several locations including MGH and Porter)
