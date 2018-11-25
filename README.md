@@ -15,6 +15,7 @@
   * Silk Road (Uyghur, East Cambridge)
   * Wafu-ya (sushi, Porter)
   * Helmand (Afghan, Kendall)
+  * Rangzen (Tibetan, Central Square)
 
 - __Chinatown__
   * Taiwan Cafe (Taiwanese)
@@ -32,7 +33,6 @@
 
 - __Many locations__
   * Flour Bakery (sandwiches)
-
 
 __Coffee/Tea__
 
