@@ -16,7 +16,7 @@
   * Wafu-ya (sushi, Porter)
   * Helmand (Afghan, Kendall)
   * Rangzen (Tibetan, Central Square)
-
+  * Asmara (Eritrean, Central)
 - __Chinatown__
   * Taiwan Cafe (Taiwanese)
   * Pho Pasteur  (Vietnamese)
@@ -49,7 +49,6 @@
 # __Places I have not tried__
 
 - Cafe Sushi (sushi, between Central and Harvard) 
-- Asmara (Eritrean, Central)
 - Sarma (Turkish)
 - Penang (Malaysian, Chinatown)
 - Happy Lamb (Mongolian, Central)
